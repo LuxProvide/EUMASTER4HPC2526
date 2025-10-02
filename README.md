@@ -34,8 +34,18 @@ The challenge will span 4 months, with students organised into teams. It follows
 
 ## Phase 2 :
 
--Prototyping: Development of applications, monitoring dashboards, or benchmarking scripts.
--Iterative testing and validation.
+### Prototyping: Development of applications, monitoring dashboards, or benchmarking scripts.
+- Implement the 4 classes : Server, Client, Monitor, Loging
+- Implement the interface : Any interface to read the recipy and trigger the benchmarks (API server, CLI server, GUI server) 
+- Iterative testing and validation: Implement some small unit tests + Fonctional test + Global example
+
+### What I need to look to at the end of the phase:
+- Issues updated
+- Code
+- Test code
+- Example code
+- Log files
+
 
 ## Phase 3:
 
